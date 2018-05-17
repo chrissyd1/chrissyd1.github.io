@@ -3,6 +3,7 @@ body{font-family:Merriweather,'Helvetica Neue',Arial,sans-serif}
 a{color:#212529;-webkit-transition:all .2s;-moz-transition:all .2s;transition:all .2s}
 h1,h2,h3,h4,h5,h6{font-family:'Open Sans','Helvetica Neue',Arial,sans-serif} 
 h1{ color: dimgray}
+
 .bg-primary{background-color:#212529!important}
 .bg-dark{background-color:#212529!important}
 .text-faded{color:rgba(255,255,255,.7)}section{padding:8rem 0}
@@ -47,6 +48,6 @@ header.masthead h1{font-size:3rem}}
 .portfolio-box:focus{outline:0}
 @media (min-width:768px){.portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category{font-size:16px}
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name{font-size:22px}}
-.text-primary{co0lor:#fff!important}
+.text-primary{color:#fff!important}
 .btn{font-weight:700;text-transform:uppercase;border:none;border-radius:300px;font-family:'Open Sans','Helvetica Neue',Arial,sans-serif}
 .btn-xl{padding:1rem 2rem}

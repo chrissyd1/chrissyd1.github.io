@@ -30,13 +30,15 @@ h6 {
 }
 
 .bg-primary {
-  background-color: #212529 !important;
+  background-color: gray !important;
 }
 
 .bg-dark {
-  background-color: #212529 !important;
+  background-color: gray !important;
 }
-
+.bg {
+  background-color:#fff !important;
+}
 .text-faded {
   color:gray;
 }
@@ -56,7 +58,7 @@ section {
 }
 
 ::selection {
-  color: #fff;
+  color: gray;
   background: #212529;
   text-shadow: none;
 }

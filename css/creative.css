@@ -36,11 +36,9 @@ h6 {
 .bg-dark {
   background-color: gray !important;
 }
-.bg {
-  background-color:#fff !important;
-}
+
 .text-faded {
-  color:gray;
+  color:#fff;
 }
 
 section {
@@ -58,7 +56,7 @@ section {
 }
 
 ::selection {
-  color: gray;
+  color: #fff;
   background: #212529;
   text-shadow: none;
 }

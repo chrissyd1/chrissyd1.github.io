@@ -3,10 +3,10 @@ body{font-family:Merriweather,'Helvetica Neue',Arial,sans-serif}
 a{color:#212529;-webkit-transition:all .2s;-moz-transition:all .2s;transition:all .2s}
 h1,h2,h3,h4,h5,h6{font-family:'Open Sans','Helvetica Neue',Arial,sans-serif} 
 h1{ color: dimgray}
-
+.section-heading{margin-top:0}
 .bg-primary{background-color:#212529!important}
 .bg-dark{background-color:#212529!important}
-.text-faded{color:rgba(255,255,255,.7)}section{padding:8rem 0}
+.text-faded{color:rgb(133, 131, 131)}section{padding:8rem 0}
 .section-heading{margin-top:0}
 ::-moz-selection{color:#fff;background:#212529;text-shadow:none}
 ::selection{color:#fff;background:#212529;text-shadow:none}
